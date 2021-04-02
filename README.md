@@ -2,7 +2,9 @@
 Building a chatbot using the Reformer model by Trax
 
 
-Last updated: 11/08/2020
+Last updated: 04/01/2021
+
+Todo next: 
 
 ---
 ## Project Summary
