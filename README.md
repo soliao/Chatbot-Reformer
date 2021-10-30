@@ -1,10 +1,15 @@
-# NLP-Chatbot-Reformer-Trax
+# Chatbot-Reformer
+
+
 Building a chatbot using the Reformer model by Trax
 
 
 Last updated: 04/01/2021
 
-Todo next: 
+Todo next:
+
+- Build a chatbot using PyTorch
+
 
 ---
 ## Project Summary
@@ -36,5 +41,3 @@ This notebook was learned and modified from the assignment of the course [Natura
 N. Kitaev et al., **Reformer: The Efficient Transformer**
 
 https://arxiv.org/abs/2001.04451
-
-
