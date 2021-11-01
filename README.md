@@ -1,17 +1,10 @@
 # Chatbot-Reformer
-
+---
 
 Building a chatbot using the Reformer model by Trax
 
+[![conversation-demo.png](https://i.postimg.cc/SQPsXGSZ/conversation-demo.png)](https://postimg.cc/grvdQ86R)
 
-Last updated: 04/01/2021
-
-Todo next:
-
-- Build a chatbot using PyTorch
-
-
----
 ## Project Summary
 
 1. This project built a chatbot by using the Reformer architecture and trained on the MultiWOZ dataset from scratch.
@@ -22,7 +15,10 @@ Todo next:
 
 4. By feeding in some custom stencences, the **chatbot is able to handle the conversation and address the request**.
 
----
+## Data
+
+## Model
+
 
 ## References
 
@@ -41,3 +37,6 @@ This notebook was learned and modified from the assignment of the course [Natura
 N. Kitaev et al., **Reformer: The Efficient Transformer**
 
 https://arxiv.org/abs/2001.04451
+
+
+Last updated: 11/01/2021
