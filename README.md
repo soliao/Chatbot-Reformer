@@ -4,6 +4,10 @@
 Building a chatbot using the Reformer model by Trax
 
 [![conversation-demo.png](https://i.postimg.cc/SQPsXGSZ/conversation-demo.png)](https://postimg.cc/grvdQ86R)
+<p align="center">
+    An actual response from my Reformer chatbot
+</p>
+
 
 ## Project Summary
 
